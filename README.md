@@ -1,8 +1,5 @@
-echo "# ducks-pond-ug.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Duckboggg/ducks-pond-ug.github.io.git
-git push -u origin main
-!DOCTYPE html
+(This is not official)
+
+This is the new Ducks Pond Github Link. This is my test at running a github website.
+Let me try and see what i can do!
+And if this dosen't work out, I will continue to use google sites as my alternative
